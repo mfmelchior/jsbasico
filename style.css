@@ -1,0 +1,21 @@
+*{
+    background-color: black; /*muda cor de fundo da página*/
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /*muda fonte das letras*/
+    margin: 50px; /*cria uma margem do texto em relação à tela*/
+    text-align: center; /*deixa o texto no centro*/
+} /* o asterisco muda tudo da página */
+
+#título-principal{
+    color: aliceblue;
+    background-color: blue;
+}
+
+#test-1{
+    color: aqua;
+}
+
+p{
+    text-align: justify;
+    margin: 15px;
+    color: aliceblue;
+}
